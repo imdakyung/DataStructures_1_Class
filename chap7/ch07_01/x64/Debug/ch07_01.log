@@ -1,0 +1,48 @@
+﻿  main.c
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(25,22): warning C4129: 'D': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(25,65): error C2146: 구문 오류: ')'이(가) 'r' 식별자 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(25,16): error C2198: 'FILE *fopen(const char *,const char *)': 호출에 인수가 너무 적습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(25,66): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,11): error C2143: 구문 오류: ')'이(가) '(' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,24): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,30): error C2143: 구문 오류: ')'이(가) '(' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,25): error C2091: 함수가 함수를 반환합니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,30): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,30): error C2143: 구문 오류: ')'이(가) '상수' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,5): error C2091: 함수가 함수를 반환합니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,30): error C2143: 구문 오류: '{'이(가) '상수' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,30): error C2059: 구문 오류: '상수'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,34): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(32,35): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(37,5): error C2059: 구문 오류: 'while'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(47,5): warning C4273: 'fclose': dll 연결이 일치하지 않습니다.
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(152,26):
+      'fclose'의 이전 정의를 참조하십시오.
+  
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(52,5): error C2059: 구문 오류: 'for'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(52,19): error C2143: 구문 오류: '{'이(가) '<' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(52,19): error C2059: 구문 오류: '<'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(52,25): error C2143: 구문 오류: '{'이(가) '++' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(52,25): error C2059: 구문 오류: '++'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(52,27): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(62,12): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(62,12): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(62,12): error C2059: 구문 오류: '문자열'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(62,55): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(63,12): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(63,12): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(63,12): error C2059: 구문 오류: '문자열'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(63,95): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(64,12): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(64,12): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(64,12): error C2059: 구문 오류: '문자열'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(64,95): error C2059: 구문 오류: ')'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(65,12): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(65,12): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(65,12): error C2059: 구문 오류: '문자열'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(67,5): error C2371: 'free': 재정의. 기본 형식이 다릅니다.
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(89,14):
+      'free' 선언을 참조하십시오.
+  
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(68,5): error C2059: 구문 오류: 'return'
+C:\Users\user\OneDrive\바탕 화면\cpp\chap7\ch07_01\main.c(69,1): error C2059: 구문 오류: '}'
