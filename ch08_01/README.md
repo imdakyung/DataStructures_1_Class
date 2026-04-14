@@ -31,6 +31,7 @@ int fibo_iterative(int n) {
 시간 복잡도: O(n)
 
 실행 시간 측정 결과
+
 n 값	|실행 시간 (초)
 
 20	    |2.683
