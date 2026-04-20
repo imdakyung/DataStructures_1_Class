@@ -28,22 +28,22 @@ al->size = 0;
 
 
 sparseMatrix.c에서의 고친 것
-❌ (1) 반복문 범위 오류 (치명적)
+(1) 반복문 범위 오류 
 for (int i = 0; i <= sizeArrayList(sm1); i++)
 
-👉 반드시:
-
+반드시:
 for (int i = 0; i < sizeArrayList(sm1); i++)
 이유
 <= 때문에 마지막에서 out-of-bounds 접근
 heap corruption 가능
-❌ (2) return 누락
+
+(2) return 누락
 int addElementSparseMatrix(...)
 int printSparseMatrix(...)
 
-👉 return 없음 → UB (Undefined Behavior)
+return 없음 → UB (Undefined Behavior)
 
-❌ (3) 덧셈 로직 구조 한계
+(3) 덧셈 로직 구조 한계
 
 현재 구조:
 
